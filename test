@@ -1,0 +1,4 @@
+git log --graph --decorate --oneline
+git checkout -b <crewai>
+git branch <crewai>
+git checkout <crewai>
