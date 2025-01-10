@@ -1,7 +1,4 @@
 inputs = {
-  'name': 'AI Agent in 2024'
-  'type': string
-  'description': 'AI Agent to help me do things'
-  'name': 'Gaga'
-  'type': 'string' 
-  'description': 'The company or organization the AI is working for'
+  'topic': 'AI Agent that gathers information online'
+  'company': 'Schott Pharma'
+}
