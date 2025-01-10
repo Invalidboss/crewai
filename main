@@ -1,7 +1,7 @@
-inputs:
-name: Artificial Intelligence
-type: string
-description: "The main topic or subject of the AI's output"
-name: Gaga
-type: string
-description: "The company or organization the AI is working for"
+inputs = {
+  'name': 'AI Agent in 2024'
+  'type': string
+  'description': 'AI Agent to help me do things'
+  'name': 'Gaga'
+  'type': 'string' 
+  'description': 'The company or organization the AI is working for'
