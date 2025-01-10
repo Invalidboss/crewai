@@ -2,3 +2,8 @@ git log --graph --decorate --oneline
 git checkout -b <crewai>
 git branch <crewai>
 git checkout <crewai>
+
+inputs = {
+  'topic': 'AI Agent that gathers information online'
+  'company': 'Schott Pharma'
+}
